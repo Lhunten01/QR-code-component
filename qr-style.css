@@ -1,0 +1,36 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.container {
+    background-color: aliceblue;
+    width: 396px;
+    height: 624px;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.qr-img {
+    margin: 63px 59px 10px 59px;
+    height: 273px;
+    width: 263px;
+}
+
+h1 {
+    padding-left: 40px;
+    padding-right: 46px;
+}
+
+h4 {
+    padding-left: 40px;
+    padding-right: 46px;
+    opacity: 50%;
+}
